@@ -1,1 +1,1 @@
-The following project only contains HTML and CSS section and not the full bootstrap version
+The following project only contain HTML and CSS section and not the full bootstrap version
