@@ -1,0 +1,52 @@
+
+
+        * {
+            margin: 0;
+        }
+
+        p {
+            font-size: 1.3rem;
+        }
+
+
+
+         /* this is for service section 1 */
+
+        .service-height {
+            height: 550px;
+            overflow: scroll;
+        }
+
+        /* this is for service section 2 */
+        .card {
+            height: 300px; 
+          }
+          
+          .card-body {
+            overflow: scroll;
+           height: 300px;
+          }
+
+
+        /* this is for service section 3 */
+
+          .service-3 {
+            height: 20rem;
+        }
+
+
+
+
+        @media screen and (min-width: 992px) {
+            .custom-size {
+                font-size: 60px;
+            }
+
+            .vh-75 {
+                height:1000px;
+            }
+        }
+
+
+
+
